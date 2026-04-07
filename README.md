@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/python-3.13-blue)
+![CI](https://github.com/faith-akiror/calculator-app/actions/workflows/python-app.yml/badge.svg)
+![Docker Publish](https://github.com/faith-akiror/calculator-app/actions/workflows/docker-publish.yml/badge.svg)
+![Docker Pulls](https://img.shields.io/docker/pulls/faithakiror/calculator-app)
+![Docker Image Size](https://img.shields.io/docker/image-size/faithakiror/calculator-app/latest)
+![Last Commit](https://img.shields.io/github/last-commit/faith-akiror/calculator-app)
+
 # Calculator App
 
 A simple Python calculator application built with **Test-Driven Development (TDD)**, **Behavior-Driven Development (BDD)**, **GitHub Actions CI/CD**, **flake8 linting**, and **Docker containerization**.
